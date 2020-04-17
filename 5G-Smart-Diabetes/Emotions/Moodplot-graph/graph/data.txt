@@ -1,0 +1,6 @@
+Joy	2724
+Love	1133
+Suprise	1174
+Anger	1139
+Fear	1343
+Sad	2518
